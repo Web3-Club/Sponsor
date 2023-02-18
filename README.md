@@ -3,7 +3,7 @@
 
 ### 所有通过 ***0xBBc1fE874422F61fB135e72C3229Fffc3Cb266Fb*** 地址 和[微信支付](https://yanbo.tech/post/support/)  赞助我们的赞助者，<br>都将会在这里展示。
 
-##### 如果您不想匿名，请您将您的姓名或昵称 发邮件📧 至 web3club@email.com，标题写上 “赞助名称确认”
+##### 如果您不想匿名，请您将您的姓名或昵称 发邮件📧 至 web3club@email.com，标题建议标注 “赞助确认”
 
 <br>
 <br>
