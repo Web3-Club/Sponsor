@@ -8,7 +8,7 @@
 <br>
 
 
-      日期（年/月/日）               姓名/昵称                 金额
-     
+       日期（年/月/日）               姓名/昵称                金额
+    Date (Year/Month/day)        name/nickname             money
       
-      2023.02.12.                 antoniayly              0.5 ETH
+        2023.02.12                antoniayly              0.5 ETH
