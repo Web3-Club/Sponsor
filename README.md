@@ -5,7 +5,7 @@
 
 ##### 如果您不想匿名，请您将您的姓名或昵称 发邮件📧 至 web3club@email.com，标题建议标注 “赞助确认”
 
-若您想成为Premium sponsors，请点击[此处](https://github.com/Web3-Club/Sponsor/blob/main/Premium%20sponsors.md)。
+若您想成为Premium sponsors，让自己的组织处在我们项目显眼的地方，请点击[此处](https://github.com/Web3-Club/Sponsor/blob/main/Premium%20sponsors.md)。
 
 <br>
 <br>
