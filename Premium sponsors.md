@@ -1,4 +1,4 @@
-# 如果您想成为本社区的Premium Sponsors
+# 成为本社区的Premium Sponsors
 为了保持社区及旗下项目持久运作，我们开放了高级赞助 ———— Premium Sponsors 赞助席位。<br>
 如果您想成为本社区的 Premium Sponsors 之一，您需要与我们提前联系，并为该账户（**0xBBc1fE874422F61fB135e72C3229Fffc3Cb266Fb**）转账0.5ETH（或向我们赞助等值法币）。<br>
 由此，您的姓名（昵称亦可）或组织 将永久出现在我们项目**最显眼**的 Premium Sponsors 栏目中。<br>
