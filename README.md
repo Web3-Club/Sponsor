@@ -3,7 +3,9 @@
 
 ### 所有通过 ***0xBBc1fE874422F61fB135e72C3229Fffc3Cb266Fb*** 地址<br>和[微信支付](https://yanbo.tech/post/support/)<br>赞助我们的赞助者，都将会在这里展示。
 
-##### 如果您不想匿名，请您将您的姓名或昵称 发邮件📧 至 web3club@email.com，标题建议标注 “赞助确认”
+##### 如果您不想匿名，请您将您的姓名或昵称 发邮件📧 至 web3club@email.com，标题建议标注 “赞助确认”。
+
+##### 所有款项将被用于 Web3-Wiki 的域名、服务器、运维 以及 其他项目 等的 必需支出。
 
 若您想成为Premium sponsors，让自己的组织处在我们项目最显眼的地方，请点击[此处](https://github.com/Web3-Club/Sponsor/blob/main/Premium%20sponsors.md)。
 
